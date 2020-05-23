@@ -1,0 +1,6 @@
+1 Line sum is     :165
+1 Line average is :33.00
+2 Line sum is     :80
+2 Line average is :10.00
+3 Line sum is     :15
+3 Line average is :5.00
